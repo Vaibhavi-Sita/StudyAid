@@ -1,3 +1,5 @@
+<img src="https://github.com/Vaibhavi-Sita/StudyAid/blob/main/assets/logo.png" width="200" height="200">
+
 Do you have an exam tomorrow? Gotta revise a topic real quick?
 This AI-based application is designed to meet the needs of students who aim for a quick revision of their subjects.
 
